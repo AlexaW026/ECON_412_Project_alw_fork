@@ -1,6 +1,5 @@
 import polars as pl
 import matplotlib.pyplot as plt
-import os 
 
 COLORS = [
     "blue",
@@ -17,7 +16,7 @@ COLORS = [
 ]
 
 def process_agg_data(col):
-    df = pl.read_csv(f"Data\Aggregated_Data\{col}_compounded_yearly_returns.csv")
+    df = pl.read_csv(f"Data/Aggregated_Data/{col}_compounded_yearly_returns.csv")
     return df
 
 def filter_top_bot(df, k):
