@@ -17,4 +17,4 @@ Immediate Changes:
 - Organize notebook
 - Comment everything
 - Incorporate commodities
-- Modularize more features (allows users to select [sector, industry, commodities], date ranges, what type of analysis , etc.)
+- Modularize more features (allows users to select [sector, industry, commodities], date ranges, what type of analysis, how many industries at a time, etc.)
