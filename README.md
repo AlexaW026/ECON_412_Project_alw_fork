@@ -11,6 +11,7 @@ matplotlib,
 
 
 Immediate Changes:
+- Waiting for upstream to include MIT License
 - Make fork into my own, independent project
 - Include MIT License
 - Clean up code
